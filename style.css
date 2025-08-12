@@ -1,4 +1,5 @@
-.div:(
-   backgraud-color: blue;
-   text-aling: center;
-)
+.section{
+    text-align: center;
+    background-color: blue;
+    
+}
