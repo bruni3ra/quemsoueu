@@ -24,6 +24,7 @@ body {
     align-items: center;
     background-color: #0c3a9c;
     padding: 20px;
+    border: black;
 }
 
 .texto {
