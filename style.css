@@ -24,7 +24,6 @@ body {
     align-items: center;
     background-color: #0c3a9c;
     padding: 20px;
-    border-color: black;
    
 }
 
@@ -34,7 +33,6 @@ body {
     padding-right: 2em;
     align-self: center;
     color: white;
-    border-color: black;
 }
 
 img {
